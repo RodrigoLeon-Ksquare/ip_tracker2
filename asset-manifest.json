@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/ip_tracker2/static/css/main.bfbdb4c6.css",
-    "main.js": "/ip_tracker2/static/js/main.3543acf4.js",
+    "main.css": "/ip_tracker2/static/css/main.3d85f96b.css",
+    "main.js": "/ip_tracker2/static/js/main.f4344f46.js",
+    "static/media/sad-face.png": "/ip_tracker2/static/media/sad-face.b1da7d04935614a7bfa9.png",
     "index.html": "/ip_tracker2/index.html",
-    "main.bfbdb4c6.css.map": "/ip_tracker2/static/css/main.bfbdb4c6.css.map",
-    "main.3543acf4.js.map": "/ip_tracker2/static/js/main.3543acf4.js.map"
+    "main.3d85f96b.css.map": "/ip_tracker2/static/css/main.3d85f96b.css.map",
+    "main.f4344f46.js.map": "/ip_tracker2/static/js/main.f4344f46.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfbdb4c6.css",
-    "static/js/main.3543acf4.js"
+    "static/css/main.3d85f96b.css",
+    "static/js/main.f4344f46.js"
   ]
 }
